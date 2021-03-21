@@ -1,3 +1,5 @@
+#indentation (the number of spaces in front of each line of code) is important in python
+
 x = 5
 y = 3
 
