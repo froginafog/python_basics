@@ -1,4 +1,5 @@
 #indentation (the number of spaces in front of each line of code) is important in python
+#each block of code is determined by its indentation
 
 x = 5
 y = 3
