@@ -11,7 +11,7 @@ print("To python or not to python, that is the question.")
 
 """
 This is also a comment section.
-This following is the result of the program when we press "Run":
+The following is the result of the program when we press "Run":
 
 Welcome to a simple python program.
 To python or not to python, that is the question.
