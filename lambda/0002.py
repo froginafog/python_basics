@@ -8,7 +8,7 @@ def f(x,y):
 g = lambda x,y : x * y
 
 """
-def f(x,y):
+def g(x,y):
     return x * y
 """
 
