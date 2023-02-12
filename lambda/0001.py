@@ -5,10 +5,10 @@ def f(x):
     return x + 10
 """
 
-g = lambda x: x * x  #f(x) = x * x
+g = lambda x: x * x  #g(x) = x * x
 
 """
-def f(x):
+def g(x):
     return x * x
 """
 
